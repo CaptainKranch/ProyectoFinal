@@ -1,0 +1,11 @@
+Prueba 1: 0
+Prueba 2: 0
+Prueba 3: 1
+Prueba 4: 0
+Prueba 5: 0
+Prueba 6: 0
+Instrucciones para leer los resultados.
+
+1.Si recibes un 1 en la mayoria de las pruebas, quiere decir que eres daltonico.
+2.Si recibes un 2 en la mayoria de las pruebas, quiere decir que tienes ceguera total cromatica.
+3.Si recibes un 0 en la mayoria de las pruebas, quiere decir que no padeces de daltonismo. 

@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="ProyectoFinal">
+    <file>imagen 3.PNG</file>
+    <file>imagen 4.PNG</file>
+    <file>imagen 5.PNG</file>
+    <file>imagen 6.PNG</file>
+    <file>imagen 2.PNG</file>
+    <file>imagen 1.PNG</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>imagen 1.PNG</file>
+  </qresource>
+</RCC>
